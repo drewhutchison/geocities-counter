@@ -1,0 +1,2 @@
+drawSvg~=1.6.1
+google_cloud_firestore~=1.8.1
