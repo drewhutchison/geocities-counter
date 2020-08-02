@@ -1,5 +1,6 @@
 Implementation of a super-dumb hit counter via Google Cloud Platform, described
-at TODO awaiting post deployment.
+at
+https://ad0sk.net/building-a-geocities-style-hit-counter-with-google-cloud-functions.html.
 
 You'll need [gcloud](https://cloud.google.com/sdk/gcloud/)
 configured and pointing at a project with Cloud Functions and Firestore enabled.
